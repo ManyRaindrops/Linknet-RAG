@@ -13,7 +13,7 @@ RAG and AI powered knowledge organization and relation creation software. Built 
 - https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/
 - https://www.youtube.com/watch?v=sVcwVQRHIc8&t=1700s
 - Leading LLMs (free plan): GPT 4o, Gemini, and DeepSeek
-- Copilot feature (free plan)
+- Copilot feature
 
 ## LLM Usage
 1. Explaning new/hard concepts: very useful for quickly getting a response rather than having to search through general coding websites.
