@@ -5,6 +5,10 @@ RAG and AI powered knowledge organization and relation creation software. Built 
 1. Become familiar with RAG systems and LLM API's
 2. Create a program to maximize user-document-LLM efficiency.
 
+Stages:
+1. Learn the material: with the resources listed below, learn and implement RAG features using basic python.
+2. With the previously acquired knowledge, use LangChain to build a RAG application
+
 ## Current Goals
 1. Prepare the first basic-python only version.
 2. Implement lang-chain into 
